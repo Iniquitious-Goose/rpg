@@ -1,0 +1,24 @@
+### TTRPG Systems
+
+### Description
+This repository contains core resolution systems adapted from a custom TTRPG ruleset
+It includes modular mechanics designed to be reused in larger projects
+
+
+### Features
+- Skill check system using formula
+	score = skill -3d6 + modifier
+- critical success and failure mechanics based on skill thresholds
+
+### Status
+This is not a playable game
+Skill checks - Completed
+
+### Future features
+- default stats applicable for all characters (STR, DEX, CON, WL, IQ)
+- Expanded combat mechanics
+- Integration into a full game
+
+### Licence
+
+MIT License
